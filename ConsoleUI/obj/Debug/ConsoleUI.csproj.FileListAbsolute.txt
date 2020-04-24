@@ -1,0 +1,7 @@
+C:\Users\despar\OneDrive - Microsoft\Documents\Visual Studio 2019\Projects\UsingBreakpointsDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\despar\OneDrive - Microsoft\Documents\Visual Studio 2019\Projects\UsingBreakpointsDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\despar\OneDrive - Microsoft\Documents\Visual Studio 2019\Projects\UsingBreakpointsDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\despar\OneDrive - Microsoft\Documents\Visual Studio 2019\Projects\UsingBreakpointsDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\despar\OneDrive - Microsoft\Documents\Visual Studio 2019\Projects\UsingBreakpointsDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\despar\OneDrive - Microsoft\Documents\Visual Studio 2019\Projects\UsingBreakpointsDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\despar\OneDrive - Microsoft\Documents\Visual Studio 2019\Projects\UsingBreakpointsDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
